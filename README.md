@@ -1,2 +1,10 @@
-# SnakeGame_C
-A simple console Snake game made with the C programming language.
+# Snake Game
+
+Classic Snake game implemented in C using terminal control.
+
+## Controls
+W - Up  
+A - Left  
+S - Down  
+D - Right  
+X - Exit  
